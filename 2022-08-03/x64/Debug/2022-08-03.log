@@ -1,0 +1,17 @@
+﻿2-12-5.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+2-12-6.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+2-12-7.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+2-12-8.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+3-11-1.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+3-11-2.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+3-11-3.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+3-11-4.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+3-11-5.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+3-11-6.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+3-11-7.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+n.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+typesize.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+字符两端打印.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+有序数组中查找X.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+模拟登录场景.obj : error LNK2005: main 已经在 2-12-4.obj 中定义
+D:\C++\VS2015\daima\2022-08-03\x64\Debug\2022-08-03.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
